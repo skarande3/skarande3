@@ -11,7 +11,7 @@ My name is Shravan Karande and I am a junior studying at the Barrett Honors Coll
 - 🌱 I’m currently learning Web and App Development 
 - 👯 I’m looking to collaborate on intresting projects that would help me learn new concepts 
 - 💬 Ask me about The Boys 
-- 📫 How to reach me: gmail- shravankarande111@gmail.com 
+- 📫 How to reach me: gmail- skarand3@asu.edu 
 - 🔎 I’m actively seeking **Spring and Summer 2025 internships**.
 - ⚡ Fun fact: I'm a nocturnal (what is sleep?!)
 

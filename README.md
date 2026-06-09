@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-My name is Shravan Karande and I am a junior studying at the Barrett Honors College at Arizona State University, Tempe. I am majoring in Computer Science with a minor in Data Science. A little bit about me:
+My name is Shravan Karande and I recent graduate from Arizona State University, Tempe. I majored in Computer Science with a minor in Data Science. A little bit about me:
 
 - 🔭 I’m currently working on [Voice Based wine assistant](https://github.com/skarande3/Voice-Based-wine-assistant-)
 - 🌱 I’m currently learning AI cybersecurity 
